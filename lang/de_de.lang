@@ -70,5 +70,5 @@ yform_values_numberlat_description = 🧩 YForm Field: Eingabefeld für einen <b
 yform_values_numberlat_range_error = {0}: der Wert muss im Bereich -90°...90° liegen.
 
 # YForm Lng-Field (Längengrade)
-yform_values_numberlng_description = 🧩 YForm Field: Eingabefeld für einen: <b>Längengrad (-180°...180°)</b>
+yform_values_numberlng_description = 🧩 YForm Field: Eingabefeld für einen <b>Längengrad (-180°...180°)</b>
 yform_values_numberlng_range_error = {0}: der Wert muss im Bereich -180°...180° liegen.
